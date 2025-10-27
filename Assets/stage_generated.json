@@ -1,0 +1,224 @@
+{
+    "items": [
+        {
+            "delay": 0.6000000238418579,
+            "objectType": 100,
+            "point": 2
+        },
+        {
+            "delay": 0.4000000059604645,
+            "objectType": 100,
+            "point": 5
+        },
+        {
+            "delay": 1.7000000476837159,
+            "objectType": 101,
+            "point": 0
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 3
+        },
+        {
+            "delay": 1.399999976158142,
+            "objectType": 101,
+            "point": 2
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 4
+        },
+        {
+            "delay": 1.2999999523162842,
+            "objectType": 101,
+            "point": 0
+        },
+        {
+            "delay": 0.5,
+            "objectType": 100,
+            "point": 4
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 2
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 1
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 3
+        },
+        {
+            "delay": 0.800000011920929,
+            "objectType": 100,
+            "point": 5
+        },
+        {
+            "delay": 1.0,
+            "objectType": 100,
+            "point": 1
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 0
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 3
+        },
+        {
+            "delay": 1.0,
+            "objectType": 101,
+            "point": 4
+        },
+        {
+            "delay": 0.699999988079071,
+            "objectType": 100,
+            "point": 4
+        },
+        {
+            "delay": 3.0,
+            "objectType": 102,
+            "point": 0
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 0
+        },
+        {
+            "delay": 0.6000000238418579,
+            "objectType": 100,
+            "point": 2
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 4
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 0
+        },
+        {
+            "delay": 1.5,
+            "objectType": 101,
+            "point": 3
+        },
+        {
+            "delay": 3.0,
+            "objectType": 102,
+            "point": 4
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 3
+        },
+        {
+            "delay": 0.5,
+            "objectType": 100,
+            "point": 0
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 1
+        },
+        {
+            "delay": 0.6000000238418579,
+            "objectType": 100,
+            "point": 2
+        },
+        {
+            "delay": 1.2999999523162842,
+            "objectType": 101,
+            "point": 0
+        },
+        {
+            "delay": 1.7999999523162842,
+            "objectType": 101,
+            "point": 1
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 4
+        },
+        {
+            "delay": 1.2000000476837159,
+            "objectType": 101,
+            "point": 0
+        },
+        {
+            "delay": 1.2999999523162842,
+            "objectType": 101,
+            "point": 1
+        },
+        {
+            "delay": 0.5,
+            "objectType": 100,
+            "point": 0
+        },
+        {
+            "delay": 0.8999999761581421,
+            "objectType": 101,
+            "point": 2
+        },
+        {
+            "delay": 3.0,
+            "objectType": 102,
+            "point": 4
+        },
+        {
+            "delay": 0.8999999761581421,
+            "objectType": 101,
+            "point": 4
+        },
+        {
+            "delay": 0.800000011920929,
+            "objectType": 101,
+            "point": 2
+        },
+        {
+            "delay": 2.0,
+            "objectType": 102,
+            "point": 3
+        },
+        {
+            "delay": 0.800000011920929,
+            "objectType": 101,
+            "point": 0
+        },
+        {
+            "delay": 1.2000000476837159,
+            "objectType": 101,
+            "point": 0
+        },
+        {
+            "delay": 4.0,
+            "objectType": 102,
+            "point": 5
+        },
+        {
+            "delay": 3.0,
+            "objectType": 102,
+            "point": 2
+        },
+        {
+            "delay": 4.0,
+            "objectType": 150,
+            "point": 2
+        }
+    ]
+}
