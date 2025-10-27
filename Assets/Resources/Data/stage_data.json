@@ -1,0 +1,27 @@
+[
+  {
+    "stage": 1,
+    "name": "Stage 1",
+    "file": "spawn1_data"
+  },
+  {
+    "stage": 2,
+    "name": "Stage 2",
+    "file": "spawn2_data"
+  },
+  {
+    "stage": 3,
+    "name": "Stage 3",
+    "file": "spawn3_data"
+  },
+  {
+    "stage": 4,
+    "name": "Stage 4",
+    "file": "spawn4_data"
+  },
+  {
+    "stage": 5,
+    "name": "Stage 5",
+    "file": "spawn5_data"
+  }
+]

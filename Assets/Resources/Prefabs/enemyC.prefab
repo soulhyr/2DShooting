@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2493919223975235969}
   - component: {fileID: 3316303799366811506}
   m_Layer: 0
-  m_Name: enemyC
+  m_Name: EnemyC
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0c8eb521395210439d9487a97099e30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyName: C
+  objectType: 102
   enemyScore: 200
   speed: 1
   health: 50
@@ -184,6 +184,4 @@ MonoBehaviour:
   - {fileID: 3714015224569861163, guid: 138040323294fd440a3a823e5d70ad01, type: 3}
   maxShotDelay: 2
   curShotDelay: 0
-  bulletAPrefab: {fileID: 6031781280699425900, guid: 22151b7130265cf46b2d5f9b9da66546, type: 3}
-  bulletBPrefab: {fileID: 6031781280699425900, guid: 88c6f2a740f850f4dbf331ee6b497d84, type: 3}
-  player: {fileID: 0}
+  playerTransform: {fileID: 0}

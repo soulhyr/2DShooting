@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 138040323294fd440a3a823e5d70ad01
-AssetOrigin:
-  serializedVersion: 1
-  productId: 188719
-  packageName: Vertical 2D Shooting Assets Pack
-  packageVersion: 1.0
-  assetPath: Assets/Vertical 2D Shooting BE4/Sprites/Enemies.png
-  uploadId: 417221
+guid: b7f68a92c27da784d8180834d94ebf7e
 TextureImporter:
   internalIDToNameTable:
   - first:

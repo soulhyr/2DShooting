@@ -595,6 +595,67 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: {fileID: 1879135550}
   descriptionText: {fileID: 1284199043}
+--- !u!1 &1188872030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1188872032}
+  - component: {fileID: 1188872031}
+  m_Layer: 0
+  m_Name: ObejctManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1188872031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188872030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88192d8bee18a604b99785948f6717ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletEnemyAPrefab: {fileID: 0}
+  bulletEnemyBPrefab: {fileID: 0}
+  bulletEnemyCPrefab: {fileID: 0}
+  bulletEnemyDPrefab: {fileID: 0}
+  bulletPlayerAPrefab: {fileID: 5626777523618076110, guid: 7d80d8cce4b5a6e44a5252df3b2d67b0, type: 3}
+  bulletPlayerBPrefab: {fileID: 6031781280699425900, guid: c0a01b5f63f63894f9f5203daa1f5496, type: 3}
+  bulletFollowPrefab: {fileID: 0}
+  enemyAPrefab: {fileID: 0}
+  enemyBPrefab: {fileID: 0}
+  enemyCPrefab: {fileID: 0}
+  bossAPrefab: {fileID: 0}
+  itemBoomPrefab: {fileID: 0}
+  itemCoinPrefab: {fileID: 0}
+  itemPowerPrefab: {fileID: 0}
+  followerPrefab: {fileID: 0}
+  explosionPrefab: {fileID: 0}
+  playerSlotPrefab: {fileID: 2114027659892849255, guid: 392ec6e99fde68a4e92bd89d77f5e6d8, type: 3}
+--- !u!4 &1188872032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188872030}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1284199041
 GameObject:
   m_ObjectHideFlags: 0
@@ -652,7 +713,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -779,10 +840,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1089,7 +1150,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Select
+  m_text: Fighter
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1225,7 +1286,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Blue Shooter
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1509,8 +1570,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 852080bdca128d2438ed07d552d9c945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  infoText: {fileID: 963737261}
-  blinkInterval: 0.2
 --- !u!1 &2111374269
 GameObject:
   m_ObjectHideFlags: 0
@@ -1540,9 +1599,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a556fcf2f5c2d64d97620d7205a1316, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectManager: {fileID: 1188872031}
   characterArea: {fileID: 2092974927}
   descriptionArea: {fileID: 1091158362}
-  parentTransform: {fileID: 893871483}
+  infoText: {fileID: 963737261}
+  blinkInterval: 0.2
 --- !u!4 &2111374271
 Transform:
   m_ObjectHideFlags: 0
@@ -1564,6 +1625,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 1954860649}
   - {fileID: 2111374271}
+  - {fileID: 1188872032}
   - {fileID: 1336421094}
   - {fileID: 706966349}
   - {fileID: 1484807397}

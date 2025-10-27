@@ -1,0 +1,10 @@
+[
+  {
+    "objectType": 400,
+    "name": "Follower 1",
+    "attackSpeed": 2.0,
+    "moveSpeed": 4.0,
+    "damage": 5,
+    "followDelay": 12
+  }
+]

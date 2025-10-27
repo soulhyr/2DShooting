@@ -159,13 +159,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player2_0
+      name: Player2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 49
-        width: 25
-        height: 25
+        y: 50
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,13 +181,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_1
+      name: Player2_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 24
-        width: 23
-        height: 26
+        x: 25
+        y: 50
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,13 +203,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_2
+      name: Player2_2
       rect:
         serializedVersion: 2
-        x: 24
-        y: 49
-        width: 26
-        height: 25
+        x: 50
+        y: 50
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,13 +225,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_3
+      name: Player2_3
       rect:
         serializedVersion: 2
-        x: 25
-        y: 24
-        width: 23
-        height: 26
+        x: 75
+        y: 50
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,13 +247,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_4
+      name: Player2_4
       rect:
         serializedVersion: 2
-        x: 49
-        y: 49
-        width: 26
-        height: 25
+        x: 0
+        y: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,13 +269,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_5
+      name: Player2_5
       rect:
         serializedVersion: 2
-        x: 50
-        y: 24
-        width: 23
-        height: 26
+        x: 25
+        y: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,13 +291,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_6
+      name: Player2_6
       rect:
         serializedVersion: 2
-        x: 74
-        y: 49
-        width: 25
-        height: 25
+        x: 50
+        y: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,13 +313,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_7
+      name: Player2_7
       rect:
         serializedVersion: 2
         x: 75
-        y: 24
-        width: 23
-        height: 26
+        y: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,13 +335,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_8
+      name: Player2_8
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 23
-        height: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,13 +357,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_9
+      name: Player2_9
       rect:
         serializedVersion: 2
-        x: 26
+        x: 25
         y: 0
-        width: 23
-        height: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,13 +379,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_10
+      name: Player2_10
       rect:
         serializedVersion: 2
-        x: 51
+        x: 50
         y: 0
-        width: 23
-        height: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,13 +401,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player2_11
+      name: Player2_11
       rect:
         serializedVersion: 2
-        x: 76
+        x: 75
         y: 0
-        width: 23
-        height: 25
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,7 +426,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3f8ba3ef10232484bbc2fc17b7a2eba4
     internalID: 0
     vertices: []
     indices: 
@@ -436,18 +436,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      player2_0: -889739676950766307
-      player2_1: -5998797548565674896
-      player2_10: -6537964876022042883
-      player2_11: -9147709555297050621
-      player2_2: -1378952643527606749
-      player2_3: -4548619987466084867
-      player2_4: 367922085793247325
-      player2_5: 4943878998075734855
-      player2_6: -3468935974318548327
-      player2_7: 4126348674810730549
-      player2_8: 6556036002550477696
-      player2_9: -2892259819399945209
+      Player2_0: -889739676950766307
+      Player2_1: -5998797548565674896
+      Player2_10: -6537964876022042883
+      Player2_11: -9147709555297050621
+      Player2_2: -1378952643527606749
+      Player2_3: -4548619987466084867
+      Player2_4: 367922085793247325
+      Player2_5: 4943878998075734855
+      Player2_6: -3468935974318548327
+      Player2_7: 4126348674810730549
+      Player2_8: 6556036002550477696
+      Player2_9: -2892259819399945209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,29 +1,29 @@
 [
   {
-    "id": 0,
+    "objectType": 0,
     "name": "Blue Fighter",
     "description": "The slowest moving plane.\n\nShoots bullets at the fastest rate.",
-    "prefabName": "blueFighterPrefab",
-    "spriteName": "Player1",
-    "attackSpeed": 3.0,
-    "moveSpeed": 5.0
+    "attackSpeed": 1.0,
+    "moveSpeed": 4.0,
+    "damage": 5,
+    "health": 3
   },
   {
-    "id": 1,
+    "objectType": 1,
     "name": "Green Fighter",
     "description": "Balanced speed, neither too fast nor too slow.\n\nShoots bullets at a moderate rate.",
-    "prefabName": "greenFighterPrefab",
-    "spriteName": "Player2",
-    "attackSpeed": 4.0,
-    "moveSpeed": 7.0
+    "attackSpeed": 0.5,
+    "moveSpeed": 6.0,
+    "damage": 3,
+    "health": 3
   },
   {
-    "id": 2,
+    "objectType": 2,
     "name": "Red Fighter",
     "description": "The fastest moving plane.\n\nShoots bullets at the slowest rate.",
-    "prefabName": "redFighterPrefab",
-    "spriteName": "Player3",
-    "attackSpeed": 5.0,
-    "moveSpeed": 10.0
+    "attackSpeed": 0.15,
+    "moveSpeed": 8.0,
+    "damage": 1,
+    "health": 3
   }
 ]

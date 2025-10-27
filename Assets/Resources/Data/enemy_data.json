@@ -1,0 +1,34 @@
+[
+  {
+    "objectType": 100,
+    "point": 50,
+    "health": 3,
+    "moveSpeed": 3,
+    "attackSpeed": 2,
+    "spriteNames": ["Enemy A","Enemy A Hit"]
+  },
+  {
+    "objectType": 101,
+    "point": 100,
+    "health": 15,
+    "moveSpeed": 10,
+    "attackSpeed": 0.5,
+    "spriteNames": ["Enemy B","Enemy B Hit"]
+  },
+  {
+    "objectType": 102,
+    "point": 200,
+    "health": 50,
+    "moveSpeed": 1,
+    "attackSpeed": 3,
+    "spriteNames": ["Enemy C","Enemy C Hit"]
+  },
+  {
+    "objectType": 150,
+    "point": 5000,
+    "health": 3000,
+    "moveSpeed": 1.5,
+    "attackSpeed": 3,
+    "spriteNames": ["Enemy C","Enemy C Hit"]
+  }
+]
